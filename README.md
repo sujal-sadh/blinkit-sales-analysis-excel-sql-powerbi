@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi">
   <img src="https://img.shields.io/badge/Excel-Data%20Source-green?logo=microsoft-excel">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey">
 </p>
 
 <hr>
