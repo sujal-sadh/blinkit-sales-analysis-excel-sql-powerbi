@@ -206,8 +206,8 @@ ORDER BY total_sales DESC;
 <h2 id="author--contact">👤 Author & Contact</h2>
 <p>
 <b>Author:</b> Sujal Sadh<br>
-📧 Email: <a href="mailto:sujalsadh113@gmail.com">sujalsadh113@gmail.com</a><br>
- <li>👤 <a href="https://www.linkedin.com/in/sujal-sadh-9aa902388/">LinkedIn</a></li>
+<li>📧 <a href="mailto:sujalsadh113@gmail.com">sujalsadh113@gmail.com</a></li>
+<li>👤 <a href="https://www.linkedin.com/in/sujal-sadh-9aa902388/">LinkedIn</a></li>
 </p>
 
 <hr>
