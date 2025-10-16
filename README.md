@@ -174,7 +174,7 @@ ORDER BY total_sales DESC;
 
 <h2 id="links">🔗 Project Links</h2>
 <ul>
-  <li>📂 <a href="https://github.com/sujal-sadh/blinkit_sales_analysis_excel_sql_powerbi">GitHub Repository</a></li>
+  <li>📂 <a href="https://github.com/sujal-sadh/blinkit-sales-analysis-excel-sql-powerbi" target="_blank">GitHub Repository</a></li>
   <li>📊 <a href="https://github.com/sujal-sadh/blinkit_sales_analysis_excel_sql_powerbi/blob/main/dashboard/Blinkit_Dashboard.pbix">Power BI File (.pbix)</a></li>
   <li>🧮 <a href="https://github.com/sujal-sadh/blinkit_sales_analysis_excel_sql_powerbi/blob/main/sql_script/sql_script.sql">SQL Script</a></li>
   <li>👤 <a href="https://www.linkedin.com/in/sujal-sadh-9aa902388/">LinkedIn</a></li>
